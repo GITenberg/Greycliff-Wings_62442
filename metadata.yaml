@@ -1,0 +1,26 @@
+_repo: Greycliff-Wings_62442
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grove, Harriet Pyne
+    gutenberg_agent_id: '37167'
+    url: http://www.gutenberg.org/2009/agents/37167
+description: ''
+gutenberg_issued: '2020-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62442'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Weddings -- Juvenile fiction'
+- !lcsh 'College students -- Juvenile fiction'
+- !lcsh 'Athletics -- Juvenile fiction'
+- !lcsh 'Girls -- Societies and clubs -- Juvenile fiction'
+- !lcsh 'Boarding schools -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Greycliff Wings
+url: http://www.gutenberg.org/ebooks/62442
